@@ -43,4 +43,6 @@ retorne x1;
 #4 Fluxograma
 ![Alt text] (/Fluxograma - New Page.png)
 
-#5
+#5 justificativa do uso do termo "pólya" no nome do repositório:
+Por causa do matemático chamado George Polya que escreveu 5 livros falando sobre o assunto de resoluções e modelagens de problemas.Em sua tese, Pólya declarou 4 etapas para solucionar um problema, sãos elas: 1ª etapa - Compreender o problema; 2ª etapa - Traçar um plano; 3ª etapa - Colocar o plano em prática; 4ª etapa - Comprovar os resultados. deste dado tiramos o nome do repositório.
+
