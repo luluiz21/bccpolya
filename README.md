@@ -41,3 +41,6 @@ enquanto (mod(x1, x2) > precisao);
 retorne x1;
 
 #4 Fluxograma
+![Alt text] (/Fluxograma - New Page.png)
+
+#5
